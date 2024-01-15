@@ -8,7 +8,7 @@ My passion lies in crafting robust and streamlined network solutions that not on
 
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [netMarv.com](http://netmarv.com)
-*   ✉️  You can contact me at [netmarv@gmail.com](mailto:netmarv@gmail.com)
+*   ✉️  You can contact me at [networkmarv@gmail.com](mailto:networkmarv@gmail.com)
 
   ### Socials
                   
